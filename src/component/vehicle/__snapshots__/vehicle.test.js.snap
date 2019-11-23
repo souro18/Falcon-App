@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders vehicle 1`] = `
+<DocumentFragment>
+  <div
+    class="vehicles form-group"
+  >
+    <div
+      class="vehicle"
+      data-testid="vehicle"
+    >
+      <input
+        disabled=""
+        name="vehicle1"
+        type="radio"
+        value="pod"
+      />
+      <label>
+        <span>
+          pod
+        </span>
+        <br />
+        <span>
+          No. of vehicle: 2
+        </span>
+        <br />
+        <span>
+          Max Distance: 200
+        </span>
+      </label>
+    </div>
+    <div
+      class="vehicle"
+      data-testid="vehicle"
+    >
+      <input
+        name="vehicle1"
+        type="radio"
+        value="sapce ship"
+      />
+      <label>
+        <span>
+          sapce ship
+        </span>
+        <br />
+        <span>
+          No. of vehicle: 1
+        </span>
+        <br />
+        <span>
+          Max Distance: 600
+        </span>
+      </label>
+    </div>
+  </div>
+</DocumentFragment>
+`;

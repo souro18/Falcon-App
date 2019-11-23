@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders planet 1`] = `
+<DocumentFragment>
+  <div
+    class="planets form-group"
+  >
+    <select>
+      <option
+        disabled=""
+        selected=""
+        value="default"
+      >
+        Planets
+      </option>
+      <option
+        data-testid="planets"
+        value="abs"
+      >
+        abs 200
+      </option>
+      <option
+        data-testid="planets"
+        value="earth"
+      >
+        earth 300
+      </option>
+    </select>
+  </div>
+</DocumentFragment>
+`;

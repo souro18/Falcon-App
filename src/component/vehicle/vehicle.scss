@@ -1,0 +1,19 @@
+.vehicles {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.vehicle {
+    display: flex;
+}
+
+@media screen and (max-width: 600px) {
+    .vehicles {
+        display: block;
+    }
+    .vehicle {
+        display: block;
+        width:100%;
+        margin-bottom: 10px;
+    }
+}

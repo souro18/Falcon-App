@@ -1,0 +1,36 @@
+main {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    width: 70%;
+    margin:20px;
+}
+.container {
+    display: flex;
+    background: #eee;
+    border-radius: 6px;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    
+    .container-footer {
+        justify-content: space-around;
+        display: flex;
+    }
+    button {
+        width: 120px;
+        border-radius: 4px;
+        padding: 10px;
+        background-color: #0097a7;
+        color:#eee;
+        &:disabled {
+            background-color: #26c6da;
+            cursor: not-allowed;
+        }
+        &:focus {
+            outline: none;
+        }
+    }
+}
