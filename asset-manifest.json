@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Falcon-App/static/css/main.236e34a9.chunk.css",
+    "main.js": "/Falcon-App/static/js/main.9df4ebae.chunk.js",
+    "main.js.map": "/Falcon-App/static/js/main.9df4ebae.chunk.js.map",
+    "runtime-main.js": "/Falcon-App/static/js/runtime-main.0039e258.js",
+    "runtime-main.js.map": "/Falcon-App/static/js/runtime-main.0039e258.js.map",
+    "static/js/2.635403ee.chunk.js": "/Falcon-App/static/js/2.635403ee.chunk.js",
+    "static/js/2.635403ee.chunk.js.map": "/Falcon-App/static/js/2.635403ee.chunk.js.map",
+    "index.html": "/Falcon-App/index.html",
+    "precache-manifest.1d3d1b3ebbd7cdf39a9df48b2d495cd0.js": "/Falcon-App/precache-manifest.1d3d1b3ebbd7cdf39a9df48b2d495cd0.js",
+    "service-worker.js": "/Falcon-App/service-worker.js",
+    "static/css/main.236e34a9.chunk.css.map": "/Falcon-App/static/css/main.236e34a9.chunk.css.map",
+    "static/media/index.css": "/Falcon-App/static/media/Everspace.68cd4fde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0039e258.js",
+    "static/js/2.635403ee.chunk.js",
+    "static/css/main.236e34a9.chunk.css",
+    "static/js/main.9df4ebae.chunk.js"
+  ]
+}
