@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Falcon-App/precache-manifest.1d3d1b3ebbd7cdf39a9df48b2d495cd0.js"
+  "/Falcon-App/precache-manifest.96a1a0be175d73c7861758fcab0bb89f.js"
 );
 
 self.addEventListener('message', (event) => {

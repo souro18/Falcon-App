@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24d48f10454b03b3308955639591d4cc",
+    "revision": "5b8c5f0cecaff2471da7b85037c30f6e",
     "url": "/Falcon-App/index.html"
   },
   {
-    "revision": "a96daaedec108b0759ed",
-    "url": "/Falcon-App/static/css/main.236e34a9.chunk.css"
+    "revision": "fb609a2d759b67bced78",
+    "url": "/Falcon-App/static/css/main.6784583d.chunk.css"
   },
   {
     "revision": "fe3df024204e36187aa8",
     "url": "/Falcon-App/static/js/2.635403ee.chunk.js"
   },
   {
-    "revision": "a96daaedec108b0759ed",
+    "revision": "fb609a2d759b67bced78",
     "url": "/Falcon-App/static/js/main.9df4ebae.chunk.js"
   },
   {
