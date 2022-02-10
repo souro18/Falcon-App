@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://souro18.github.io/Falcon-App",
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-loading": "^2.0.3",
